@@ -9,3 +9,15 @@ C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\
 C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.exe
 C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.pdb
 C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.View.Estudiantes.ViewEstudiantes.resources
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\bin\Debug\Refuerzo2024.exe.config
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\bin\Debug\Refuerzo2024.exe
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\bin\Debug\Refuerzo2024.pdb
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.View.Dashboard.ViewDashboard.resources
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.View.Estudiantes.ViewEstudiantes.resources
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.View.Facultades_y_Especialidades.ViewFacultadesEspecialidades.resources
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.exe
+C:\Users\Estudiante\Desktop\RecOrdinaria\Rec.Ordinaria2024JavierIraheta\obj\Debug\Refuerzo2024.pdb
